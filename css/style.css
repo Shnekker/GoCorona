@@ -136,6 +136,12 @@ body {
 .header__logo:hover {
   color: #1586b3;
 }
+@media (max-width: 580px) {
+  .header__logo {
+    padding-left: 14px;
+  }
+}
+
 .header__menu {
   font-family: "Raleway";
   font-weight: 700;
