@@ -127,7 +127,7 @@ body {
   font-size: 18px;
   color: #EC5863;
   line-height: 21px;
-  background: url(img/GO/header/01.svg) left no-repeat;
+  background: url('/img/GO/header/01.svg')left no-repeat;
   padding-left: 48px;
 }
 .header__logo span {
